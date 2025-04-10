@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Ruan Silva 👋</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Focado em Backend ☕ | Apaixonado por tecnologia 💻
+  Estudante de Análise e Desenvolvimento de Sistemas | Focado em fullstack ☕ | Apaixonado por tecnologia 💻 |  Amante de estudos constantes e das boas práticas na programação 📚 |  Café é meu combustível para codar ☕
 </p>
 
 ---
