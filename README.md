@@ -12,6 +12,7 @@
 💡 Interessado em **desenvolvimento Fullstack**, com foco principal em backend  
 📚 Atualmente estudando **Java, HTML5, CSS3, SQL e Estrutura de Dados**  
 🛠️ Sempre buscando aprender mais e melhorar minhas habilidades
+🚀 Recentemente, liderei um projeto de otimização de processos no setor de varejo, aplicando tecnologia para resolver problemas reais de gestão e atendimento.
 
 ---
 
