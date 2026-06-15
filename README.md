@@ -31,10 +31,13 @@
 
 ---
 
-## 📂 Meus Projetos
+## 📂 Meus Projetos em Destaque
 
+*   [**JC Depósito (Gerenciador de Depósito de Bebidas)**](https://github.com/RuanSilva23/depositobebidas) 🚧 *Em Desenvolvimento*
+    *   Sistema de gestão integrada e automação de fluxo de caixa utilizando **Java, Spring Boot, Spring Data JPA e PostgreSQL**. Focado na consistência de dados através de transações atômicas no backend.
 
-> Veja todos os meus projetos em: [github.com/RuanSilva23](https://github.com/RuanSilva23)
+*   [**CineValient**](https://github.com/RuanSilva23/cinevalient)
+    *   Aplicação desenvolvida em **Java** para consolidação de conceitos de Programação Orientada a Objetos (POO) e manipulação de dados estruturados.
 
 ---
 
